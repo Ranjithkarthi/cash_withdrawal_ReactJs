@@ -1,0 +1,44 @@
+/* Write your CSS here */
+
+.bg-container {
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 12px;
+  height: 100vh;
+}
+
+.calc-container {
+  padding: 12px;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.acc-balance {
+  display: flex;
+  justify-content: space-between;
+}
+
+.bold-text {
+  font-weight: bold;
+  font-size: large;
+  margin-right: 30px;
+}
+
+.rupees-btn-container {
+  display: flex;
+}
+
+.acc-balance-num {
+  font-size: large;
+  margin-left: 24px;
+  font-weight: bold;
+  color: darkgreen;
+}

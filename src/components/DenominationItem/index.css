@@ -1,0 +1,16 @@
+/* Write your CSS here */
+
+.btn {
+  width: 90px;
+  height: 35px;
+  padding: 5px;
+  border-radius: 4px;
+  color: black;
+  border: 1px solid blueviolet;
+  cursor: pointer;
+}
+
+.list-style {
+  list-style-type: none;
+  padding: 12px;
+}
